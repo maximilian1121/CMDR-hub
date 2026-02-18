@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="cmdr-hub-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0116647"
+     inkscape:cx="441.35178"
+     inkscape:cy="256.50792"
+     inkscape:window-width="1859"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;stroke-width:0.309499;stroke-dasharray:none"
+       id="rect1"
+       width="135.46666"
+       height="135.46666"
+       x="3.5603841e-06"
+       y="3.5603841e-06"
+       ry="13.607064" />
+    <g
+       id="g4"
+       transform="matrix(1.06583,0,0,1.06583,-4.4588789,5.9409753)">
+      <text
+         xml:space="preserve"
+         style="font-size:91.8578px;text-align:start;letter-spacing:-8.46667px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:7.66683;stroke-dasharray:none"
+         x="9.870739"
+         y="82.392754"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Ultra-Bold';letter-spacing:-8.46667px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:7.66685;stroke-opacity:1"
+           x="9.870739"
+           y="82.392754">CH</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.6357px;text-align:center;letter-spacing:0.763952px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:1.05463;stroke-dasharray:none"
+         x="67.701744"
+         y="98.509117"
+         id="text2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Ultra-Bold';text-align:center;letter-spacing:0.763952px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05464;stroke-opacity:1"
+           x="68.083725"
+           y="98.509117"
+           id="tspan4">Commander Hub</tspan></text>
+    </g>
+  </g>
+</svg>

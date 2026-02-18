@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933333 16.933333"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="tileterminal.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="11.445679"
+     inkscape:cx="35.908748"
+     inkscape:cy="34.292417"
+     inkscape:window-width="1859"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="font-size:9.98088px;font-family:Fredoka;-inkscape-font-specification:Fredoka;text-align:center;letter-spacing:-1.62189px;text-anchor:middle;fill:#ffffff;stroke-width:0.495132;fill-opacity:1"
+       d="m 5.6741369,9.7224163 q -0.065255,0.041528 -0.124577,0.059323 -0.059323,0.023727 -0.1186448,0 Q 5.377525,9.7580096 5.3182026,9.6690261 5.252948,9.5800427 5.2410835,9.5147879 5.229219,9.4495336 5.2648125,9.4020758 5.3004059,9.3546176 5.3656606,9.313092 L 7.2580445,8.0851186 5.3656606,6.8630776 Q 5.3004059,6.8215519 5.2648125,6.774094 5.2351513,6.7207039 5.2410835,6.6613815 5.252948,6.5961268 5.3182026,6.5071433 5.3834572,6.4062952 5.4368474,6.3884985 q 0.059322,-0.023729 0.1127125,0 0.059322,0.017797 0.124577,0.059323 l 2.165267,1.4296694 q 0.047458,0.023729 0.077119,0.077119 0.035593,0.047458 0.035593,0.1305093 0,0.065255 -0.035593,0.124577 -0.029661,0.05339 -0.077119,0.088983 z m 1.972474,0.8542427 q -0.071187,0 -0.124577,-0.01779 -0.05339,-0.01186 -0.083051,-0.06526 -0.023729,-0.05339 -0.023729,-0.154238 0,-0.10678 0.023729,-0.16017 0.029661,-0.05339 0.077119,-0.07119 0.05339,-0.01779 0.124577,-0.01779 h 3.8440901 q 0.07119,0 0.118645,0.01779 0.05339,0.0178 0.07712,0.07119 0.02966,0.05339 0.02966,0.16017 0,0.100848 -0.02966,0.154238 -0.02966,0.05339 -0.08305,0.06526 -0.05339,0.01779 -0.124578,0.01779 z"
+       id="text1"
+       aria-label="&gt;_" />
+  </g>
+</svg>
